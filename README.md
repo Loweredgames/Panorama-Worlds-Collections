@@ -14,7 +14,13 @@ there is also Pack.png world.
 |:---------------:|:-----------------:|:------------------:|:----------------------------:|:-------:|
 |Pack.png|3257840388504953787|X=49.16, Y=70, Z=0.72|Alpha 1.2.2a - Beta b1.7.3|This is the only world that doesn't come from a panorama itself|
 |Classical Panorama|2151901553968352745 or 8091867987493326313|X=61.48, Y=75, Z=-68.73|Alpha 1.2.2a - Beta b1.7.3|Classic Panorama World|
-|Update Aquatic Panorama|1458140401|X=1553.76, Y=58.62, Z=-1162.79|18w22a (1.13)|
+|Update Aquatic Panorama|1458140401|X=1553.76, Y=58.62, Z=-1162.79|18w22a (1.13.X)|
+|Village & Pillage Panorama|2802867088795589976|X=240.57, Y=78.12, Z=147.38|18w48a (1.14.X)|
+|Buzzy Bees|-4404205509303106230|X=339.691, Y=65.546, Z=-1072.041|19w40a (1.15.X)|
+|Nether Update|
+|Caves & Cliffs|
+|The Wild Update|
+|Trails & Tales|
 
 #### Images Panorama (included Pack.png):
 ![2023-08-10_14 07 16](https://github.com/Loweredgames/Panorama-Worlds-Collections/assets/55211569/c3f825d0-4822-4c5e-8711-2272f7c92f1b)
