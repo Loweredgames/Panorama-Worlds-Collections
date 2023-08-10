@@ -1,12 +1,14 @@
-# Panorama Worlds
+# Panorama Worlds Collections:
 
 ![2023-08-10_13 43 06](https://github.com/Loweredgames/Panorama-Worlds/assets/55211569/5038fbe1-a803-401c-a20c-564be8636d33)
+
+## Information:
 
 All panoramas convert and compatible with all new versions of Minecraft Java Edition (BE must be manually converted).
 from the original version to the updated version
 there is also Pack.png world.
 
-## All Seeds (included Pack.png)
+## All Worlds Versions (included Pack.png)
 
 | Name Panorama |    Seed Number    | Version of Minecraft       | Note |
 |---------------|-------------------|----------------------------|-------|
