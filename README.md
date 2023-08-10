@@ -10,10 +10,10 @@ there is also Pack.png world.
 
 ## All Worlds Versions (included Pack.png)
 
-|Name World Panorama|Seed Number|Site/Teleport|Version of Minecraft|Note|
+|Name World Panorama|Seed Number|Site/Teleport|Version of Minecraft Seeds|Note|
 |:---------------:|:-----------------:|:------------------:|:----------------------------:|:-------:|
-|Pack.png|3257840388504953787|X=49.16, Y=70, Z=0.72|Alpha 1.2.2a - Beta b1.7.3 - 1.2.5 - 1.18.2|This is the only world that doesn't come from a panorama itself|
-|Classical Panorama|2151901553968352745 or 8091867987493326313|X=61.48, Y=75, Z=-68.73|Alpha 1.2.2a - Beta b1.7.3 - 1.2.5 - 1.18.2|Classic Panorama World|
+|Pack.png|3257840388504953787|X=49.16, Y=70, Z=0.72|Alpha 1.2.2a - Beta b1.7.3|This is the only world that doesn't come from a panorama itself|
+|Classical Panorama|2151901553968352745 or 8091867987493326313|X=61.48, Y=75, Z=-68.73|Alpha 1.2.2a - Beta b1.7.3|Classic Panorama World|
 |Update Aquatic Panorama|1458140401|X=1553.76, Y=58.62, Z=-1162.79|18w22a (1.13)|
 
 ### Images:
