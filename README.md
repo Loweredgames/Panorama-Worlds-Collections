@@ -13,15 +13,4 @@ there is also Pack.png world.
 |Pack.png       |3257840388504953787|Alpha 1.2.2a - Beta b1.7.3 - 1.2.5 - 1.18.2|This is the only world that doesn't come from a panorama itself|
 |Classical Panorama|2151901553968352745 or 8091867987493326313|Alpha 1.2.2a - Beta b1.7.3 - 1.2.5 - 1.18.2|Classic Panorama World|
 
-_Public Domain:_
-
-_No Copyright:_
-_This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.
-You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. See Other Information below._
-
-_Other Information:_
-_The work may not be free of known copyright restrictions in all jurisdictions.
-Persons may have other rights in or related to the work, such as patent or trademark rights, and others may have rights in how the work is used, such as publicity or privacy rights.
-In some jurisdictions moral rights of the author may persist beyond the term of copyright. These rights may include the right to be identified as the author and the right to object to derogatory treatments.
-Unless expressly stated otherwise, the person who identified the work makes no warranties about the work, and disclaims liability for all uses of the work, to the fullest extent permitted by applicable law.
-When using or citing the work, you should not imply endorsement by the author or the person who identified the work._
+_Public Domain: These worlds are given as they are. you are free to do whatever you want, as long as you respect the Mojang and Minecraft license._
