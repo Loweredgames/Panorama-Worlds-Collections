@@ -14,4 +14,4 @@ there is also Pack.png world.
 |Classical Panorama|2151901553968352745 or 8091867987493326313|Alpha 1.2.2a - Beta b1.7.3 - 1.2.5 - 1.18.2|Classic Panorama World|
 
 _Public Domain: These worlds are given as they are. you are free to do whatever you want, as long as you respect the Mojang and Minecraft license._
-# https://www.minecraft.net/it-it/usage-guidelines
+https://www.minecraft.net/it-it/usage-guidelines
