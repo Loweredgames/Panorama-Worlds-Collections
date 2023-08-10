@@ -10,7 +10,7 @@ there is also Pack.png world.
 
 ## All Worlds Versions (included Pack.png)
 
-| Name Panorama |    Seed Number    | Version of Minecraft       | Note |
+| Name World Panorama |    Seed Number    | Version of Minecraft       | Note |
 |---------------|-------------------|----------------------------|-------|
 |Pack.png       |3257840388504953787|Alpha 1.2.2a - Beta b1.7.3 - 1.2.5 - 1.18.2|This is the only world that doesn't come from a panorama itself|
 |Classical Panorama|2151901553968352745 or 8091867987493326313|Alpha 1.2.2a - Beta b1.7.3 - 1.2.5 - 1.18.2|Classic Panorama World|
