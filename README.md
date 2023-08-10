@@ -1,4 +1,4 @@
-# Panorama Worlds Collections:
+# Panorama Worlds Collections
 
 ![2023-08-10_13 43 06](https://github.com/Loweredgames/Panorama-Worlds/assets/55211569/5038fbe1-a803-401c-a20c-564be8636d33)
 
