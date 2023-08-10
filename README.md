@@ -17,8 +17,8 @@ there is also Pack.png world.
 |Update Aquatic Panorama|1458140401|X=1553.76, Y=58.62, Z=-1162.79|18w22a (1.13.X)|
 |Village & Pillage Panorama|2802867088795589976|X=240.57, Y=78.12, Z=147.38|18w48a (1.14.X)|
 |Buzzy Bees|-4404205509303106230|X=339.691, Y=65.546, Z=-1072.041|19w40a (1.15.X)|
-|Nether Update|
-|Caves & Cliffs|
+|Nether Update|6006096527635909600|X=482.208, Y=78.515, Z=-1127.193|20w13a (1.16.X)|
+|Caves & Cliffs|2151901553968352745|X=4.83 Y=130.15 Z=-7294.28|21w40a (1.18.X)|
 |The Wild Update|
 |Trails & Tales|
 
